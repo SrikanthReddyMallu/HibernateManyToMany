@@ -1,0 +1,2 @@
+# HibernateManyToMany
+ManyToMany
